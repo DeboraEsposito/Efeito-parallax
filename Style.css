@@ -85,15 +85,15 @@ section.module.parallax:after {
 }
 
 section.module.parallax-1 {
-  background-image: url("/aurora_boreal.jpg")
+  background-image: url("/img/aurora_boreal.jpg")
 }
 
 section.module.parallax-2 {
-  background-image: url("/arco_iris.jpg")
+  background-image: url("/img/arco_iris.jpg")
 }
 
 section.module.parallax-3 {
-  background-image: url("/raio.jpg")
+  background-image: url("/img/raio.jpg")
 }
 
 section.module.parallax h1 {
